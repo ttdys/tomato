@@ -1,0 +1,66 @@
+POST http://localhost:8080/tomato_war_exploded/system/user/loginUser.do?username=admin&password=admin
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/tomato_war_exploded/system/user/loginUser.do?username=admin&password=admin
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/tomato_war_exploded/system/user/loginUser.do?username=admin&password=admin
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/tomato_war_exploded/system/user/loginUser.do?username=admin&password=admin
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/tomato_war_exploded/system/user/loginUser.do?username=admin&password=admin
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/tomato_war_exploded/system/user/loginUser.do?username=admin&password=admin
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/tomato_war_exploded/system/user/loginUser.do?username=admin&password=admin
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/tomato_war_exploded/system/user/loginUser.do?username=admin&password=admin
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/tomato_war_exploded/system/user/loginUser.do?username=admin&password=admin
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/tomato_war_exploded/system/user/loginUser.do?username=admin&password=admin
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/tomato_war_exploded/?username=admin&password=admin
+Accept: */*
+Cache-Control: no-cache
+
+###
+
